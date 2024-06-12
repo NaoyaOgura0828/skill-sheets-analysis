@@ -53,7 +53,7 @@ python3.12 skill_sheets_analysis.py
 ```
 
 > [!TIP]
-> 実行環境のpythonコマンドのPATH設定によって下記の箇所は変更する。
+> 実行環境のpythonコマンドのPATH設定によって、実行コマンドは適宜変更する。
 > ```bash
 > # e.g.
 > python skill_sheets_analysis.py
