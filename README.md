@@ -36,12 +36,15 @@
 
 3. [skill_sheets/](./skill_sheets/)に検索対象のスキルシートを格納する。
 
-    ```bash
+    ```
     skill_sheets/
     |-- skill_sheet_A
     |-- skill_sheet_B
     `-- skill_sheet_C
     ```
+
+> [!IMPORTANT]
+> スキルシートは、`.xlsx`または`.xls`形式のみをサポートする。
 
 <br>
 
